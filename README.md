@@ -347,8 +347,7 @@ Document title: *CE237687* - *PSoC&trade; 4: CAPSENSE&trade; multi frequency sca
  Version | Description of change
  ------- | ---------------------
  1.0.0   | New code example
-
-
+ 1.1.0   | Changed PSoC HV MS kit name to PSOC4
 <br>
 
 ---------------------------------------------------------
